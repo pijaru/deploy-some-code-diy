@@ -1,19 +1,23 @@
 {
-    "name": "deploy-some-code-diy",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.html",
-    "scripts": {
-      "start": ""
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pijaru/deploy-some-code-diy.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/pijaru/deploy-some-code-diy.git"
-    },
-    "homepage": "https://github.com/pijaru/deploy-some-code-diy.git"
-  }
+  "name": "deploy-some-code-diy",
+  "version": "1.0.0",
+  "description": "cyclic deploy",
+  "main": "index.html",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pijaru/deploy-some-code-diy.git"
+  },
+  "author": "harsono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pijaru/deploy-some-code-diy.git"
+  },
+  "homepage": "https://github.com/pijaru/deploy-some-code-diy.git",
+  "keywords": [
+    "cyclic",
+    "deploy"
+  ]
+}
