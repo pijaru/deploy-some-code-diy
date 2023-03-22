@@ -2,7 +2,7 @@
   "name": "deploy-some-code-diy",
   "version": "1.0.0",
   "description": "cyclic deploy",
-  "main": "index.html",
+  "main": "index",
   "scripts": {
     "start": ""
   },
